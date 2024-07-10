@@ -13,7 +13,7 @@ app.use(cors());
 
 // Sample endpoint to get data
 app.get('/', (req, res) => {
-  res.json({ message: 'Hello from the backend!', data: [1, 2, 3, 4, 5] });
+  res.json({ message: 'Hello from the Mujju bhai and this will be the greatest thing to do in life!', data: [1, 2, 3, 4, 5] });
 });
 
 // Sample endpoint to receive data
